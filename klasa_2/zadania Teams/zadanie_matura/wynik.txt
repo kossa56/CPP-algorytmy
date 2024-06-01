@@ -1,0 +1,4 @@
+ZAD 4.1 wynik to:  10
+ZAD 4.2 wynik to:  DOPISZ, dlugosc ciagu to: 5
+ZAD 4.3 wynik to: litera U dopisywana 3 razy 
+ZAD 4.4 wynik to:  ALANTURING
